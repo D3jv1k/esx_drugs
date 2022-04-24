@@ -1,7 +1,9 @@
 [Requirements]:
 
 OxMmysql https://github.com/overextended/oxmysql/
+
 ES Extended ESX (https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
+
 esx_policejob: https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_policejob)
 
 [Features]:
