@@ -1,12 +1,10 @@
-
-![alt text](https://forum.syntaxgaming.de/index.php?attachment/50-unbenannt-png/)
-
 [Requirements]:
 
-MySQL
-EssentialMode Base by @Kanersps: [[Release] EssentialMode base ](https://forum.fivem.net/t/release-essentialmode-base/3665)
-ES Extended (ESX) by @GiZz: [https://github.com/FXServer-ESX/fxserver-es_extended ](https://github.com/FXServer-ESX/fxserver-es_extended)
-esx_policejob: [https://github.com/FXServer-ESX/fxserver-esx_policejob ](https://github.com/FXServer-ESX/fxserver-esx_policejob)
+OxMysql https://github.com/overextended/oxmysql
+
+ES Extended (ESX) (https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
+
+esx_policejob: (https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_policejob)
 
 [Features]:
 
@@ -21,12 +19,7 @@ esx_policejob: [https://github.com/FXServer-ESX/fxserver-esx_policejob ](https:/
 
 [Installation]:
 
-1. Change directory to resources/[esx]/
-2. Clone the Git repository: [https://github.com/DoPeMan17/esx_drugs ](https://github.com/DoPeMan17/esx_drugs)
+1. Download this https://github.com/Dejwik/esx_drugs
+2. Add to [esx]
 3. Import esx_drugs.sql into your MySQL database
 4. Add this to your server.cfg “start esx_drugs”
-
-[Additional Information]
-For any and all support please visit the ESX Discord: [https://discord.gg/dtMRh86](https://discord.gg/dtMRh86) as I do not provide support and have been away from quite some time.
-
-There are more plugins available which you can view at [https://github.com/DoPeMan17](https://github.com/DoPeMan17).
