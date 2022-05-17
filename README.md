@@ -19,7 +19,7 @@ esx_policejob: (https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_add
 
 [Installation]:
 
-1. Download this https://github.com/Dejwik/esx_drugs
+1. Download this https://github.com/v4mp76/esx_drugs
 2. Add to [esx]
 3. Import esx_drugs.sql into your MySQL database
 4. Add this to your server.cfg “start esx_drugs”
