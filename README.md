@@ -10,7 +10,7 @@ esx_policejob: (https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_add
 
 1. -Illegal job opportunities await!
 2. -I changed ESX_Drugs and added a lot of features like more drugs and licenses for the money wash and the money wash itself
-3. -Marijuana/Coke/Meth/Lsd/Heroin as Farms
+3. -Marijuana/Coke/Meth/Heroin as Farms
 4. -Gather -> Package/Process -> Sales!
 5. -Optinal you can make MoneyWash License
 6. -Gives dirty money to purchase illegal goods with
