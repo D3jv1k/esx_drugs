@@ -11,20 +11,6 @@ Config.Delays = {
 	thionylchlorideProcessing = 1000 * 10,
 }
 
-Config.DrugDealerItems = {
-	heroin = 546,
-	marijuana = 784,
-	meth = 1635,
-	coke = 1027,
-	lsd = 2178,
-}
-
-Config.ChemicalsConvertionItems = {
-	hydrochloric_acid = 0,
-	sodium_hydroxide = 0,
-	sulfuric_acid = 0,
-}
-
 Config.LicensePrices = {
 	weed_processing = {label = _U('license_weed'), price = 15000}
 }
