@@ -45,14 +45,6 @@ Locales ['en'] = {
   ['heroin_processed'] = 'you\'ve processed ~b~1x~s~ ~g~Heroin~s~',
   ['heroin_processingtoofar'] = 'the processing has been ~r~canceled~s~ due to you abandoning the area.',
  
-  
-  -- drug dealer
-  ['dealer_prompt'] = 'press ~INPUT_CONTEXT~ to talk with the ~r~Drug Dealer~s~.',
-  ['dealer_title'] = 'drug Dealer',
-  ['dealer_item'] = '$%s',
-  ['dealer_notenough'] = 'you don\'t have enough of that to sell!',
-  ['dealer_sold'] = 'you\'ve sold ~b~%sx~s~ ~y~%s~s~ for ~g~$%s~s~',
-
   -- license
   ['license_title'] = 'you are required to own a processing license to process this product, it can be bought here.',
   ['license_no'] = 'no',
@@ -65,28 +57,5 @@ Locales ['en'] = {
   ['licenseshop_prompt'] = 'press ~INPUT_CONTEXT~ to open with the ~g~License Shop~s~.',
   ['license_bought'] = 'you\'ve bought ~b~1x~s~ ~y~%s~s~ for ~g~$%s~s~',
   ['license_inventoryfull'] = 'you allready have this License on you.',
-  
-  -- moneywash
-  ['moneywash_washed'] = 'you\'ve washed ~r~$%s~s~',
-  ['moneywash_title'] = 'MoneyWash',
-  ['moneywash_wash'] = 'Wash all black money.',
-  ['moneywash_prompt'] = 'press ~INPUT_CONTEXT~ to open the ~r~MoneyWash~s~.',
-  
-  -- blips
-  ['blip_weedfield'] = 'weed Field',
-  ['blip_weedprocessing'] = 'weed Processing',
-  ['blip_methfield'] = 'meth Field',
-  ['blip_methprocessing'] = 'meth Processing',
-  ['blip_drugdealer'] = 'drug Dealer',
-  ['blip_ChemicalsProcessing'] = 'Chemische Verarbeitung',
-  ['blip_ChemicalsFarm'] = 'Chemiefarm',
-  ['blip_CokeFarm'] = 'Koks Farm',
-  ['blip_Cokeprocessing'] = 'Koks Herstellung',
-  ['blip_herionfield'] = 'Heroin Farm',
-  ['blip_heroinprocessing'] = 'Heroin Herstellung',
-  ['blip_HydrochloricAcidFarm'] = 'Salzsäure Bauernhof',
-  ['blip_lsdprocessing'] = 'LSD Herstellung',
-  ['blip_SodiumHydroxideFarm'] = 'Sodium Hydroxide Farm',
-  ['blip_SulfuricAcidFarm'] = 'SulfuricAcidFarm',
 }
 
