@@ -10,13 +10,6 @@ Locales ['br'] = {
   ['weed_processed'] = 'você processou ~b~3x~s~ ~g~Cannabis~s~ para ~b~1x~s~ ~g~Maconha~s~',
   ['weed_processingtoofar'] = 'o processamento foi ~r~cancelado~s~ porque você abandonou a área.',
 
-  -- drug dealer
-  ['dealer_prompt'] = 'aperte ~INPUT_CONTEXT~ para falar com o ~r~Drug Dealer~s~.',
-  ['dealer_title'] = 'traficante de drogas',
-  ['dealer_item'] = '$%s',
-  ['dealer_notenough'] = 'você não tem o suficiente disso para vender!',
-  ['dealer_sold'] = 'você vendeu ~b~%sx~s~ ~y~%s~s~ para~g~$%s~s~',
-
   -- license
   ['license_title'] = 'você precisa tirar uma Licença de Processamento de Ervas para processar este produto, a liçenca pode ser comprada aqui.',
   ['license_no'] = 'não',
