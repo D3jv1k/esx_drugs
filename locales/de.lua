@@ -33,21 +33,6 @@ Locales ['de'] = {
   ['coke_processed'] = 'Sie haben ~b~1x~s~ ~g~Coca~s~ verarbeitet',
   ['coke_processingtoofar'] = 'Die Verarbeitung wurde abgebrochen, weil Sie den Bereich verlassen haben.',
   
-  -- lsd
-  ['lsd_processingstarted'] = 'Verarbeitung ~g~LSD~s~...',
-  ['lsd_processingfull'] = 'Bearbeitung ~r~abgebrochen~s~ wegen vollem Inventar!',
-  ['lsd_processprompt'] = 'Drücken sie ~INPUT_CONTEXT~ um mit ~g~LSD verarbeitung~s~ zu beginnen.',
-  ['lsd_processingenough'] = 'Sie brauchen ~b~1x~s~ ~g~LSA~s~ und ~b~1x~s~ ~g~Thionyl Chloride~s~ um zu verarbeiten.',
-  ['lsd_processed'] = 'Sie haben ~b~1x~s~ ~g~LSD~s~ verarbeitet',
-  ['lsd_processingtoofar'] = 'Die Verarbeitung wurde abgebrochen, weil Sie den Bereich verlassen haben.',
-  
-  ['thionylchloride_processingstarted'] = 'Verarbeitung von ~g~Thionylchlorid~s~...',
-  ['thionylchloride_processingfull'] = 'Bearbeitung ~r~abgebrochen~s~ wegen vollem Inventar!',
-  ['thionylchloride_processprompt'] = 'Drücken sie ~INPUT_CONTEXT~ um mit der Verarbeitung von Thionylchlorid zu beginnen.',
-  ['thionylchloride_processingenough'] = 'Sie müssen ~b~1x~s~ ~g~LSA~s~ und ~b~1x~s~ ~g~Chemikalien~s~ haben, um verarbeiten zu können.',
-  ['thionylchloride_processed'] = 'Sie haben ~b~1x~s~ ~g~Thionylchlorid~s~ verarbeitet',
-  ['thionylchloride_processingtoofar'] = 'Die Verarbeitung wurde abgebrochen, weil Sie den Bereich verlassen haben.',
-  
    -- heroin
   ['heroin_pickupprompt'] = 'Drücken sie ~INPUT_CONTEXT~ um die ~g~Mohn~s~ Pflanze zu ernten.',
   ['poppy_inventoryfull'] = 'Sie haben keinen Inventarplatz mehr für ~g~Mohnharz~s~.',
@@ -58,22 +43,6 @@ Locales ['de'] = {
   ['heroin_processingenough'] = 'Sie müssen ~b~1x~s~ ~g~Mohnharz~s~ haben, um verarbeiten zu können.',
   ['heroin_processed'] = 'Sie haben ~b~1x~s~ ~g~Heroin~s~ verarbeitet',
   ['heroin_processingtoofar'] = 'Die Verarbeitung wurde abgebrochen, weil Sie den Bereich verlassen haben.',
-  
-  -- chemicals
-  ['chemicals_pickupprompt'] = 'Drücken sie ~INPUT_CONTEXT~ um die ~g~Chemikalien~s~ zu nehmen',
-  ['chemicals_inventoryfull'] = 'Sie haben keinen Inventarplatz mehr für ~g~Chemikalien~s~.',
-  ['Chemicals_notenough'] = 'Sie müssen keine Chemikalien mehr verarbeiten.',
-  ['Chemicals_made'] = 'Du hast ~b~1x~s~ ~y~%s~s~ gemacht',
-  ['chemicals_prompt'] = 'Drücken sie ~INPUT_CONTEXT~ um das Menü ~r~Chemische Umwandlung~s~ zu öffnen.',
-  ['ChemicalsConvertion_title'] = 'Menü "Chemische Umwandlung"',
-  ['chemicals_making'] = '~Chemikalienherstellung~s~',
-  
-  -- drug dealer
-  ['dealer_prompt'] = 'Drücken sie ~INPUT_CONTEXT~ um mit dem ~r~Drogendealer~s~ zu sprechen.',
-  ['dealer_title'] = 'Drogendealer',
-  ['dealer_item'] = '$%s',
-  ['dealer_notenough'] = 'Sie haben nicht genug dShit zu verkaufen!',
-  ['dealer_sold'] = 'Sie haben ~b~%sx~s~ ~y~%s~s~ für ~g~$%s~s~ verkauft',
 
   -- license
   ['license_title'] = 'Sie müssen eine Verarbeitungslizenz besitzen, um dieses Produkt verarbeiten zu können. Diese kann hier gekauft werden.',
@@ -93,22 +62,6 @@ Locales ['de'] = {
   ['moneywash_title'] = 'Geldwäsche',
   ['moneywash_wash'] = 'Schwarzgeld Waschen',
   ['moneywash_prompt'] = 'Drücken sie ~INPUT_CONTEXT~ zum öffnen der ~r~Geldwäsche~s~.',
-  
-  -- blips
-  ['blip_WeedFarm'] = 'Cannabisfeld',
-  ['blip_weedprocessing'] = 'Cannabis Verarbeitung',
-  ['blip_methfield'] = 'Meth Feld',
-  ['blip_methprocessing'] = 'Meth Verarbeitung',
-  ['blip_drugdealer'] = 'Drogendealer',
-  ['blip_ChemicalsProcessing'] = 'Chemische Verarbeitung',
-  ['blip_ChemicalsFarm'] = 'Chemiefarm',
-  ['blip_CokeFarm'] = 'Koks Farm',
-  ['blip_Cokeprocessing'] = 'Koks Herstellung',
-  ['blip_heroinfield'] = 'Heroin Farm',
-  ['blip_heroinprocessing'] = 'Heroin Herstellung',
-  ['blip_HydrochloricAcidFarm'] = 'HydroChlorsäure Farm',
-  ['blip_lsdprocessing'] = 'LSD Herstellung',
-  ['blip_SodiumHydroxideFarm'] = 'Natriumhydroxid Farm',
-  ['blip_SulfuricAcidFarm'] = 'Schwefelsäure Farm',
+
 }
 
